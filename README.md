@@ -40,16 +40,18 @@ Counties Not Published in the ACS 1-Year Estimates, 2015:
 We collect data directly from ACS API. We uses more than 50 variables in both state and county level, from 2012 to 2016.
 
 The data cleaning work could be found at:
+
 https://github.com/wusiyu94/final_project/blob/master/cleandata_acs_1year.py
 https://github.com/wusiyu94/final_project/blob/master/relabel.py
 
 
-#### Exploratory Analysis
+### Exploratory Analysis
 
 * Fisrt of all, we create choropleth map on health insurance coverage in state level from 2012 to 2016.
 
 The code for this map is included in a jupyter notebook:
 https://github.com/wusiyu94/final_project/blob/master/persent_insurance_2012_2016.ipynb 
+
 And the map is presented in web format, which could be found at here:
 https://github.com/wusiyu94/final_project/blob/master/persent_insurance_2012_2016.html
 
@@ -57,11 +59,13 @@ https://github.com/wusiyu94/final_project/blob/master/persent_insurance_2012_201
 
 The code for the map of public health insurance is included in a jupyter notebook:
 https://github.com/wusiyu94/final_project/blob/master/persent_insurance_public.ipynb
+
 And the map is presented in web format, which could be found at here: 
 https://plot.ly/~wusiyu94/20
 
 The code for the map of private health insurance is included in a jupyter notebook:
 https://github.com/wusiyu94/final_project/blob/master/persent_insurance_private.ipynb
+
 And the map is presented in web format, which could be found at here: 
 https://plot.ly/~wusiyu94/18
 
@@ -73,11 +77,11 @@ And the map is presented in web format, which could be found at here:
 https://github.com/wusiyu94/final_project/blob/master/persent_no_insurance_category.html
 
 
-#### Regression Analysis
+### Regression Analysis
 
 【TO BE DONE】
 
-#### Conclusions
+### Conclusions
 
 【TO BE DONE】
 
