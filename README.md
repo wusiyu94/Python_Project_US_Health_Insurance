@@ -35,13 +35,14 @@ Counties Not Published in the ACS 1-Year Estimates, 2015:
 ![alt text](https://github.com/wusiyu94/final_project/blob/master/Counties%20Not%20Published%20in%20the%20ACS%201-Year%20Estimates%2C%202015.png "Counties Not Published in the ACS 1-Year Estimates, 2015")  
 </details>
 
-### Investigation
+### Data Cleaning
 
-All analysis code for this project is included in a jupyter notebook:
+We collect data directly from ACS API. We uses more than 50 variables in both state and county level, from 2012 to 2016.
 
-[Health_Insurance_Coverage.ipynb](https://github.com/wusiyu94/final_project/blob/master/Health_Insurance_Coverage.ipynb)
+The data cleaning work could be found at:
+https://github.com/wusiyu94/final_project/blob/master/cleandata_acs_1year.py
+https://github.com/wusiyu94/final_project/blob/master/relabel.py
 
-All analyses are performed in python, pandas and statsmodels.
 
 #### Exploratory Analysis
 
