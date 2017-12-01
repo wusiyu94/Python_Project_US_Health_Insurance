@@ -55,21 +55,21 @@ https://github.com/wusiyu94/final_project/blob/master/relabel.py
    And the map is presented in web format, which could be found at here:
    https://github.com/wusiyu94/final_project/blob/master/persent_insurance_2012_2016.html
 
-* Next, we create map to show the persent of change in public and private health insurance coverage in state level from 2012 to 2016.
+* Next, we create map to show the percent of change in public and private health insurance coverage in state level from 2012 to 2016.
 
    The code for the map of public health insurance is included in a jupyter notebook:
    https://github.com/wusiyu94/final_project/blob/master/persent_insurance_public.ipynb
 
    And the map is presented in web format, which could be found at here: 
-   https://plot.ly/~wusiyu94/20
+   https://plot.ly/~wusiyu94/20.embed
 
    The code for the map of private health insurance is included in a jupyter notebook:
    https://github.com/wusiyu94/final_project/blob/master/persent_insurance_private.ipynb
 
    And the map is presented in web format, which could be found at here: 
-   https://plot.ly/~wusiyu94/18
+   https://plot.ly/~wusiyu94/18.embed
 
-* Finanly, we look at the persent of no health insurance coverage based on different age group and employment status in 2016. 
+* Finanly, we look at the percent of no health insurance coverage based on different age group and employment status in 2016. 
 
    The code for the map is included in a jupyter notebook:
    https://github.com/wusiyu94/final_project/blob/master/persent_no_insurance_category.ipynb
