@@ -21,12 +21,13 @@ significant change in health insurance coverage between 2015 and 2016.
 The Massachusetts insurance market reform of 2006 is a state coverage expansion that has received a great deal of attention. Using a set of policies similar to the ACA, the Massachusetts law decreased the state’s uninsured rate by about 6 percentage points ([Courtemanche & Zapata, 2014](http://onlinelibrary.wiley.com/doi/10.1002/pam.21737/abstract); [Long, Stockley, & Yemane, 2009](http://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.99.2.508)). Using data from the Urban Institute Health Reform Monitoring Survey, Long et al. (2014) compared coverage rates in September 2013 to September 2014 and found an overall increase in coverage of 5.3 percentage points among nonelderly adults. The increase in insurance coverage in Medicaid expansion states was estimated to be 5.8 percentage points, compared to 4.8 percentage points in non-expansion states.
 
 ### Data Source
-Check-out scripts for the data used in our analysis can be found in my [data repository](https://github.com/wusiyu94/final_project/tree/master/data).  
+Check-out scripts for the data used in our analysis can be found in my [repository](https://github.com/wusiyu94/final_project).  
 
 * State- and county-level health insurance coverage data, with income and other demographic information
 
-   * American Community Survey 1-Year Data (2011-2016)
-   Health insurance coverage is not available in 2011 data.  
+   * American Community Survey 1-Year Data (2011-2016)   
+   
+     Health insurance coverage is not available in 2011 data.  
    
      2012-14:  
      https://api.census.gov/data/2012/acs1/profile  
@@ -65,12 +66,12 @@ The analysis includes four parts.
   
 In the first part, we create choropleth maps on precent of health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent_insurance_2012_2016.html](https://github.com/wusiyu94/final_project/blob/master/img/percent_insurance_2012_2016.html). Should download the whole folder and then open the html.
   
-In the second part, we create graph to show the percent of change in private health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent of change in private health insurance coverage](https://plot.ly/~wusiyu94/22.embed)
+In the second part, we create graph to show the percent of change in private health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent of change in private health insurance coverage](https://plot.ly/~wusiyu94/22.embed).
   
 In the third part, we create graph to show the percent of change in public health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent of change in public health insurance coverage](https://plot.ly/~wusiyu94/26.embed).   
 we also consider the impact of ACA expansion on health insurance coverage, and plot the trend for [ACA's effect](https://github.com/wusiyu94/final_project/blob/master/img/aca_effect.png).
   
-In the final part, we create choropleth maps of the percent of no health insurance coverage based on different age group and employment status in 2016. [percent_no_insurance_category.html](https://github.com/wusiyu94/final_project/blob/master/img/percent_no_insurance_category.html). Should download the whole folder and then open the html.
+In the final part, we create choropleth maps of the percent of no health insurance coverage based on different age group and employment status in 2016. [percent_no_insurance_category.html](https://github.com/wusiyu94/final_project/blob/master/img/percent_no_insurance_category.html). Please download the whole folder and then open the html.
 
 
 ### Regression Analysis
