@@ -88,7 +88,7 @@ In the final part, we create choropleth maps of the percent of no health insuran
 From our OLS regression model, we found statistically significant differences in uninsured rates between our comparison groups, although all are quite small in manitude. Factors we found to have a beneficial effect of decreasing county-level uninsured rates: having higher median income, being male, and having high school diploma or Bachelor's degree compared to >Bachelor's.
 
 Although the directions of effect for some variables are not quite in line with our expectation, we should note that our sample size is very large (>800 counties in 5 years) which could make any small change statistically significant.
-From our diff-in-diff model, we found a 4.09 percentage points decrease in uninsured rate, that represents the effect of the fully implemented ACA. Within this 4.09 percentage points decrease, 3.21 percentage points is from the non-Medicaid components of the ACA (insurance market reforms, individual mandate, subsidies, exchanges), and 0.88 (percentage points) is the effect of The Medicaid expansion.
+From our diff-in-diff model, we found a 4.09 percentage points decrease in uninsured rate, that represents the effect of the fully implemented ACA. Within this 4.09 percentage points decrease, 3.21 percentage points is from the non-Medicaid components of the ACA (insurance market reforms, individual mandate, subsidies, exchanges), and 0.88 (percentage points) is the effect of the Medicaid expansion.
 
 Our findings are consistent with past work that Medicaid expansion did improve health insurance coverage.
 
