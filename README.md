@@ -40,7 +40,7 @@ Check-out scripts for the data used in our analysis can be found in my [data rep
 &nbsp;<details><summary>Counties Not Published in ACS 1-Year Data</summary>
 Approximately 74 percent or 2,323 of U.S. counties do not have 1-year estimates of health insurance coverage. However, the ACS 1-year county-level estimates cover 85 percent of the total U.S. population.  
 Counties Not Published in the ACS 1-Year Estimates, 2015:
-![alt text](https://github.com/wusiyu94/final_project/blob/master/Counties%20Not%20Published%20in%20the%20ACS%201-Year%20Estimates%2C%202015.png "Counties Not Published in the ACS 1-Year Estimates, 2015")  
+![alt text](https://github.com/wusiyu94/final_project/blob/aa0e15d2b528670bc5faea1eecfe2ed8a6f0a359/img/Counties%20Not%20Published%20in%20the%20ACS%201-Year%20Estimates%2C%202015.png "Counties Not Published in the ACS 1-Year Estimates, 2015")  
 </details>
     In consideration of the data coverage, we decided to use state-level data for mapping and county-level data for regression analyses.   
     
