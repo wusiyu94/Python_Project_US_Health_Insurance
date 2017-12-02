@@ -56,7 +56,7 @@ https://github.com/wusiyu94/final_project/blob/master/relabel_combine.py
 
 ### Exploratory Analysis
 
-* All analysis code for our regression analyses is included in a single jupyter notebook:
+* All analysis code for our exploratory analyses is included in a single jupyter notebook:
   [exploratory_analysis.ipynb](https://github.com/wusiyu94/final_project/blob/master/exploratory_analysis.ipynb)
   
 The analysis is based on maps and graphs that derived from health insurance coverage data from ACS from 2012 to 2016. We expect to find the trend of change in health insurance coverage, look for features and characteriscs of health insurance data, and make some descriptive statistics for the regression analysis.
