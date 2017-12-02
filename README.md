@@ -30,7 +30,7 @@ Check-out scripts for the data used in our analysis can be found in my [data rep
    
      2012-14:  
      https://api.census.gov/data/2012/acs1/profile  
-     https://api.census.gov/data/2013/acs1/profile
+     https://api.census.gov/data/2013/acs1/profile   
      https://api.census.gov/data/2014/acs1/profile   
      2015-16:  
      https://api.census.gov/data/2015/acs/acs1/profile/  
@@ -56,35 +56,21 @@ https://github.com/wusiyu94/final_project/blob/master/relabel_combine.py
 
 ### Exploratory Analysis
 
-* First of all, we create choropleth map on health insurance coverage in state level from 2012 to 2016.
+* All analysis code for our regression analyses is included in a single jupyter notebook:
+  [exploratory_analysis.ipynb](https://github.com/wusiyu94/final_project/blob/master/exploratory_analysis.ipynb)
+  
+  The analysis is based on maps and graphs that derived from health insurance coverage data from ACS from 2012 to 2016. We expect to find the trend of change in health insurance coverage, look for features and characteriscs of health insurance data, and make some descriptive statistics for the regression analysis.
 
-   The code for this map is included in a jupyter notebook:
-   https://github.com/wusiyu94/final_project/blob/master/persent_insurance_2012_2016.ipynb 
-
-   And the map is presented in web format, which could be found at here:
-   https://github.com/wusiyu94/final_project/blob/master/persent_insurance_2012_2016.html
-
-* Next, we create map to show the percent of change in public and private health insurance coverage in state level from 2012 to 2016.
-
-   The code for the map of public health insurance is included in a jupyter notebook:
-   https://github.com/wusiyu94/final_project/blob/master/persent_insurance_public.ipynb
-
-   And the map is presented in web format, which could be found at here: 
-   https://plot.ly/~wusiyu94/20.embed
-
-   The code for the map of private health insurance is included in a jupyter notebook:
-   https://github.com/wusiyu94/final_project/blob/master/persent_insurance_private.ipynb
-
-   And the map is presented in web format, which could be found at here: 
-   https://plot.ly/~wusiyu94/18.embed
-
-* Finanly, we look at the percent of no health insurance coverage based on different age group and employment status in 2016. 
-
-   The code for the map is included in a jupyter notebook:
-   https://github.com/wusiyu94/final_project/blob/master/persent_no_insurance_category.ipynb
-
-   And the map is presented in web format, which could be found at here: 
-   https://github.com/wusiyu94/final_project/blob/master/persent_no_insurance_category.html
+  The analysis includes four parts. 
+  
+  In the first part, we create choropleth maps on precent of health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent_insurance_2012_2016.html](https://github.com/wusiyu94/final_project/blob/master/img/percent_insurance_2012_2016.html). Should download the whole folder and then open the html.
+  
+  In the second part, we create graph to show the percent of change in private health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent of change in private health insurance coverage](https://plot.ly/~wusiyu94/22.embed)
+  
+  In the third part, we create graph to show the percent of change in public health insurance coverage in state level from 2012 to 2016. The map is stored in web format [percent of change in public health insurance coverage](https://plot.ly/~wusiyu94/26.embed)
+  we also consider the impact of ACA expansion on health insurance coverage, and plot the trend for ACA's effect. [ACA effect](https://github.com/wusiyu94/final_project/blob/master/img/aca_effect.png)
+  
+  In the final part, we create choropleth maps of the percent of no health insurance coverage based on different age group and employment status in 2016. [percent_no_insurance_category.html](https://github.com/wusiyu94/final_project/blob/master/img/percent_no_insurance_category.html). Should download the whole folder and then open the html.
 
 
 ### Regression Analysis
